@@ -1,1 +1,0 @@
-export DJANGO_GIRLS_SECRET_KEY="j6_ms5pjusas-5nh-jnw!z2m9vz177^i71i&l@1_5s3#y#(uc%"
